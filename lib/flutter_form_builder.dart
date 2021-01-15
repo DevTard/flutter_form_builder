@@ -1,6 +1,6 @@
 library flutter_form_builder;
 
-export 'package:flutter_typeahead/flutter_typeahead.dart';
+
 export 'package:signature/signature.dart';
 
 export './src/fields/form_builder_checkbox.dart';
@@ -28,7 +28,6 @@ export './src/fields/form_builder_stepper.dart';
 export './src/fields/form_builder_switch.dart';
 export './src/fields/form_builder_text_field.dart';
 export './src/fields/form_builder_touch_spin.dart';
-export './src/fields/form_builder_typeahead.dart';
 export './src/widgets/grouped_checkbox.dart';
 export './src/widgets/grouped_radio.dart';
 export './src/form_builder.dart';
