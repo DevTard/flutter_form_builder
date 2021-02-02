@@ -20,11 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9af0f94-6b5f-4c60-bdeb-2d3aa86d400e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/flutter_form_builder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_form_builder.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/fields/form_builder_typeahead.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/fields/form_builder_chips_input.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/fields/form_builder_color_picker.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/fields/form_builder_image_picker.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/fields/form_builder_phone_field.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/widgets/image_source_sheet.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/flutter_form_builder_test.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +84,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="720" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610717602408">
+    <state x="720" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612270581626">
       <screen x="44" y="25" width="1876" height="1175" />
     </state>
     <state x="720" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-712.-1415.3440.1415/44.25.1876.1175@44.25.1876.1175" timestamp="1610717602408" />
+    <state x="720" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/44.25.1876.1175@44.25.1876.1175" timestamp="1612270581626" />
   </component>
 </project>

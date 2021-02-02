@@ -146,12 +146,6 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.8",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///Users/flm/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -162,12 +156,6 @@
       "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_touch_spin-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.5"
-    },
-    {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/flm/flutter/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
     },
     {
       "name": "glob",
@@ -204,24 +192,6 @@
       "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/image-2.1.12",
       "packageUri": "lib/",
       "languageVersion": "2.0"
-    },
-    {
-      "name": "image_picker",
-      "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+11",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
-    },
-    {
-      "name": "image_picker_for_web",
-      "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-0.1.0+2",
-      "packageUri": "lib/",
-      "languageVersion": "2.5"
-    },
-    {
-      "name": "image_picker_platform_interface",
-      "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_platform_interface-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.5"
     },
     {
       "name": "intl",
@@ -318,12 +288,6 @@
       "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/phone_number-0.6.2+4",
       "packageUri": "lib/",
       "languageVersion": "2.3"
-    },
-    {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/flm/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
     },
     {
       "name": "pointycastle",
@@ -518,7 +482,7 @@
       "languageVersion": "2.6"
     }
   ],
-  "generated": "2021-01-15T13:32:58.409047Z",
+  "generated": "2021-02-02T12:56:07.955398Z",
   "generator": "pub",
   "generatorVersion": "2.10.4"
 }
